@@ -1,0 +1,81 @@
+BVI511
+   description: BVI 511
+   ip-address: 10.200.188.33
+
+Bundle-Ether10
+
+Loopback0
+   ip-address: 2.2.2.2
+
+Loopback1
+   description: WHATEVER
+   ip-address: 2.2.2.20
+
+Loopback100
+   description: ##locator##
+
+Loopback1000
+
+Loopback1001
+   ip-address: 192.168.0.1
+
+Loopback1002
+   ip-address: 192.168.0.2
+
+Loopback1003
+   ip-address: 192.168.51.1
+
+Loopback101
+   ip-address: 192.0.2.18
+
+Loopback111
+   description: Configured by NETCONF
+   ip-address: 9.9.8.8
+
+Loopback123
+   description: "123 pyats 123"
+
+Loopback13
+   ip-address: 1.1.1.10
+
+Loopback19
+   description: David
+   ip-address: 20.20.20.20
+
+Loopback2
+   description: loopback2
+   ip-address: 2.2.2.2
+
+Loopback200
+   description: ***MERGE LOOPBACK 200****
+   ip-address: 1.1.1.200
+
+Loopback20222
+
+Loopback555
+   ip-address: 2.2.2.2
+
+Loopback556
+   ip-address: 3.3.3.3
+
+Loopback6500
+   ip-address: 198.51.100.0
+
+Loopback701
+   ip-address: 10.0.1.1
+
+Loopback702
+   ip-address: 10.0.2.1
+
+Loopback703
+   ip-address: 192.168.0.1
+
+Loopback99
+   ip-address: 10.10.10.1
+
+MgmtEth0/RP0/CPU0/0
+   ip-address: 10.10.20.175
+
+tunnel-ip99
+   ip-address: 1.1.1.1
+

@@ -1,0 +1,140 @@
+BVI511
+   description: BVI 511
+   ipaddr: 10.200.188.33
+   status: Down
+
+Bundle-Ether10
+   ipaddr: unassigned
+   status: Down
+
+GigabitEthernet0/0/0/0
+   ipaddr: unassigned
+   status: Down
+
+GigabitEthernet0/0/0/1
+   ipaddr: unassigned
+   status: Down
+
+GigabitEthernet0/0/0/2
+   ipaddr: unassigned
+   status: Down
+
+GigabitEthernet0/0/0/3
+   ipaddr: unassigned
+   status: Down
+
+GigabitEthernet0/0/0/4
+   ipaddr: unassigned
+   status: Down
+
+GigabitEthernet0/0/0/5
+   ipaddr: unassigned
+   status: Down
+
+GigabitEthernet0/0/0/6
+   ipaddr: unassigned
+   status: Down
+
+Loopback0
+   ipaddr: 2.2.2.2
+   status: Up
+
+Loopback1
+   description: WHATEVER
+   ipaddr: 2.2.2.20
+   status: Up
+
+Loopback100
+   description: ##locator##
+   ipaddr: unassigned
+   status: Up
+
+Loopback1000
+   ipaddr: unassigned
+   status: Up
+
+Loopback1001
+   ipaddr: 192.168.0.1
+   status: Up
+
+Loopback1002
+   ipaddr: 192.168.0.2
+   status: Up
+
+Loopback1003
+   ipaddr: 192.168.51.1
+   status: Shutdown
+
+Loopback101
+   ipaddr: 192.0.2.18
+   status: Up
+
+Loopback111
+   description: Configured by NETCONF
+   ipaddr: 9.9.8.8
+   status: Up
+
+Loopback123
+   description: "123 pyats 123"
+   ipaddr: unassigned
+   status: Up
+
+Loopback13
+   ipaddr: 1.1.1.10
+   status: Up
+
+Loopback19
+   description: David
+   ipaddr: 20.20.20.20
+   status: Up
+
+Loopback2
+   description: loopback2
+   ipaddr: 2.2.2.2
+   status: Up
+
+Loopback200
+   description: ***MERGE LOOPBACK 200****
+   ipaddr: 1.1.1.200
+   status: Up
+
+Loopback20222
+   ipaddr: unassigned
+   status: Up
+
+Loopback555
+   ipaddr: 2.2.2.2
+   status: Up
+
+Loopback556
+   ipaddr: 3.3.3.3
+   status: Up
+
+Loopback6500
+   ipaddr: 198.51.100.0
+   status: Up
+
+Loopback701
+   ipaddr: 10.0.1.1
+   status: Up
+
+Loopback702
+   ipaddr: 10.0.2.1
+   status: Up
+
+Loopback703
+   ipaddr: 192.168.0.1
+   status: Up
+
+Loopback99
+   ipaddr: 10.10.10.1
+   status: Up
+
+MgmtEth0/RP0/CPU0/0
+   ipaddr: 10.10.20.175
+   status: Up
+
+tunnel-ip99
+   ipaddr: 1.1.1.1
+   status: Down
+
