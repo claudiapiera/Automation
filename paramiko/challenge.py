@@ -149,6 +149,8 @@ def getDescription(output):
 def main():
     global intfs
     print("hello world")
+    print("blablalbalasdhj")
+    print("hellou")
     output_brief = send_command('show ip interface brief')
     intfs = parse_textfsm(template=template_show_ip_int_brief, output=output_brief)
     output_descr = send_command('show interfaces description')
